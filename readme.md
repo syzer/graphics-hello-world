@@ -1,4 +1,4 @@
 # wat
 
-exmaple from 
+example from 
 http://www.graphicsjs.org/
